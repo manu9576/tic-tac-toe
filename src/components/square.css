@@ -1,5 +1,6 @@
 .square {
-	width: 6em;
-	height: 6em;
-	font-size: small;
+	height: 3em;
+	width: 3em;
+	font-size: medium;
+	padding: 0.94em;
 }

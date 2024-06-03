@@ -1,3 +1,5 @@
 .board-row {
 	max-height: 6em;
+	margin: 0;
+	padding: 0;
 }
